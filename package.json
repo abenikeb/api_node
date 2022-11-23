@@ -1,0 +1,22 @@
+{
+  "name": "api_node",
+  "version": "1.0.0",
+  "description": "api_node contents",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abenikeb/api_node.git"
+  },
+  "keywords": [
+    "ab_api_node"
+  ],
+  "author": "abeni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abenikeb/api_node/issues"
+  },
+  "homepage": "https://github.com/abenikeb/api_node#readme"
+}
